@@ -1,3 +1,4 @@
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\CoverletSourceRootsMapping
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\testhost.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\CommandAPI.deps.json
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\CommandAPI.runtimeconfig.json
@@ -6,6 +7,7 @@ C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\appsettings.Devel
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\appsettings.json
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\CommandAPI.exe
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\testhost.exe
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\xunit.runner.reporters.netcoreapp10.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\xunit.runner.utility.netcoreapp10.dll
@@ -18,6 +20,9 @@ C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\CommandAPI.Tests.
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Humanizer.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.Build.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.Build.Framework.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.Build.Utilities.Core.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
@@ -25,11 +30,14 @@ C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.CodeAna
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.DotNet.Cli.Utils.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
@@ -38,7 +46,6 @@ C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.Identit
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
-C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
@@ -53,7 +60,16 @@ C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.VisualS
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\NuGet.Common.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\NuGet.Configuration.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\NuGet.DependencyResolver.Core.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\NuGet.LibraryModel.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\NuGet.Packaging.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\NuGet.Packaging.Core.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\NuGet.ProjectModel.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\NuGet.Protocol.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\NuGet.Versioning.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -67,6 +83,7 @@ C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\System.Diagnostic
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\xunit.abstractions.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\xunit.assert.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\xunit.core.dll
@@ -123,6 +140,19 @@ C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\ru\Microsoft.Code
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\cs\Microsoft.DotNet.Cli.Utils.resources.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\de\Microsoft.DotNet.Cli.Utils.resources.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\es\Microsoft.DotNet.Cli.Utils.resources.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\fr\Microsoft.DotNet.Cli.Utils.resources.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\it\Microsoft.DotNet.Cli.Utils.resources.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\ja\Microsoft.DotNet.Cli.Utils.resources.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\ko\Microsoft.DotNet.Cli.Utils.resources.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\pl\Microsoft.DotNet.Cli.Utils.resources.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\pt-BR\Microsoft.DotNet.Cli.Utils.resources.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\ru\Microsoft.DotNet.Cli.Utils.resources.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\tr\Microsoft.DotNet.Cli.Utils.resources.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\zh-Hans\Microsoft.DotNet.Cli.Utils.resources.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\zh-Hant\Microsoft.DotNet.Cli.Utils.resources.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
@@ -204,7 +234,7 @@ C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\runtimes\win\lib\
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\CommandAPI.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\CommandAPI.pdb
-C:\project\CommandAPISolution\test\CommandAPI\obj\Debug\net5.0\CommandAPI.Tests.csprojAssemblyReference.cache
+C:\project\CommandAPISolution\test\CommandAPI\obj\Debug\net5.0\CommandAPI.Tests.csproj.AssemblyReference.cache
 C:\project\CommandAPISolution\test\CommandAPI\obj\Debug\net5.0\CommandAPI.Tests.GeneratedMSBuildEditorConfig.editorconfig
 C:\project\CommandAPISolution\test\CommandAPI\obj\Debug\net5.0\CommandAPI.Tests.AssemblyInfoInputs.cache
 C:\project\CommandAPISolution\test\CommandAPI\obj\Debug\net5.0\CommandAPI.Tests.AssemblyInfo.cs
@@ -214,4 +244,4 @@ C:\project\CommandAPISolution\test\CommandAPI\obj\Debug\net5.0\CommandAPI.Tests.
 C:\project\CommandAPISolution\test\CommandAPI\obj\Debug\net5.0\ref\CommandAPI.Tests.dll
 C:\project\CommandAPISolution\test\CommandAPI\obj\Debug\net5.0\CommandAPI.Tests.pdb
 C:\project\CommandAPISolution\test\CommandAPI\obj\Debug\net5.0\CommandAPI.Tests.genruntimeconfig.cache
-C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll

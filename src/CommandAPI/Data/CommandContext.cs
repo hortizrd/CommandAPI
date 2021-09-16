@@ -1,19 +1,24 @@
-﻿using System;
+﻿using CommandAPI.Models;
+using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
-using CommandAPI.Models;
 
 namespace CommandAPI.Data
 {
-    public class CommandContext : DbContext
-
+    public class CommandContext : DbContext, ICommandContext
     {
         public CommandContext(DbContextOptions<CommandContext> options)
-            : base(options)
+          : base(options)
         {
         }
-        public DbSet<Command> CommandItems { get; set; }
+        public DbSet<Command> Command { get; set; }
+
+
+        public async Task<int> SaveChanges()
+        {
+            return await base.SaveChangesAsync();
+        }
     }
 }
