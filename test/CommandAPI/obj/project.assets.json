@@ -5641,7 +5641,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\heortiz\\.nuget\\packages\\": {}
+    "C:\\Users\\h.ortiz\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -5649,11 +5649,11 @@
       "projectUniqueName": "C:\\project\\CommandAPISolution\\test\\CommandAPI\\CommandAPI.Tests.csproj",
       "projectName": "CommandAPI.Tests",
       "projectPath": "C:\\project\\CommandAPISolution\\test\\CommandAPI\\CommandAPI.Tests.csproj",
-      "packagesPath": "C:\\Users\\heortiz\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\h.ortiz\\.nuget\\packages\\",
       "outputPath": "C:\\project\\CommandAPISolution\\test\\CommandAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\heortiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\h.ortiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5719,7 +5719,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.206\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
       }
     }
   }
