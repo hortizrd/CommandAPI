@@ -10,6 +10,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using CommandAPI.Models;
+using AutoMapper;
 
 
 using CommandAPI.Data;
@@ -33,9 +34,10 @@ namespace CommandAPI
                  options.UseSqlServer(
                      Configuration.GetConnectionString("DefaultConn"),
                      b => b.MigrationsAssembly(typeof(CommandContext).Assembly.FullName)));
-                   services.AddScoped<ICommandContext>(provider => provider.GetService<CommandContext>());
-
+            //services.AddScoped<ICommandContext>(provider => provider.GetService<CommandContext>());
+            services.AddScoped<ICommandAPIRepo, SqlCommandAPIRepo>();
             services.AddControllers();
+            services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
            
            

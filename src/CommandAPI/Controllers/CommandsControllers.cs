@@ -11,28 +11,34 @@ namespace CommandAPI.Controllers
     [ApiController]
     public class CommandsController : ControllerBase
     {
-        private readonly ICommandContext _repository;
-        public CommandsController(ICommandContext repository) {
+        private readonly ICommandAPIRepo _repository;
+        public CommandsController(ICommandAPIRepo repository) {
             _repository = repository;
 
         }
-
         [HttpGet]
-        public async Task<IActionResult> GetAll()
+        public ActionResult<IEnumerable<Command>> GetAllCommands()
         {
-            var students = await _repository.Command.ToListAsync();
-            if (students == null) return NotFound();
-            return Ok(students);
+            var commandItems = _repository.GetAllCommands();
+
+            return Ok(commandItems);
         }
+        //[HttpGet]
+        //public async Task<IActionResult> GetAll()
+        //{
+        //    var students = await _repository.Command.ToListAsync();
+        //    if (students == null) return NotFound();
+        //    return Ok(students);
+        //}
 
 
-        [HttpGet("{id}")]
-        public async Task<IActionResult> GetById(int id)
-        {
-            var student = await _repository.Command.Where(a => a.Id == id).FirstOrDefaultAsync();
-            if (student == null) return NotFound();
-            return Ok(student);
-        }
+        //[HttpGet("{id}")]
+        //public async Task<IActionResult> GetById(int id)
+        //{
+        //    var student = await _repository.Command.Where(a => a.Id == id).FirstOrDefaultAsync();
+        //    if (student == null) return NotFound();
+        //    return Ok(student);
+        //}
 
     }
 }

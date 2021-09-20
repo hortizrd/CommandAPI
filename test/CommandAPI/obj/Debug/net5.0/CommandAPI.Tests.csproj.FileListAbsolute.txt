@@ -34,6 +34,7 @@ C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.DotNet.
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
@@ -244,4 +245,5 @@ C:\project\CommandAPISolution\test\CommandAPI\obj\Debug\net5.0\CommandAPI.Tests.
 C:\project\CommandAPISolution\test\CommandAPI\obj\Debug\net5.0\ref\CommandAPI.Tests.dll
 C:\project\CommandAPISolution\test\CommandAPI\obj\Debug\net5.0\CommandAPI.Tests.pdb
 C:\project\CommandAPISolution\test\CommandAPI\obj\Debug\net5.0\CommandAPI.Tests.genruntimeconfig.cache
-C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\project\CommandAPISolution\test\CommandAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

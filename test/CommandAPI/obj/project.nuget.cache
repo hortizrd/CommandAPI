@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "B6OQQTsg6uad+/97QrYCetwgqt7TTS662Dvci06t1DqcieW1vS0cPacPp8vJvvPKXccrrvzvlhzOb6QjfRrwaA==",
+  "dgSpecHash": "LDdfalj1ASWroNu4tajU1EJsZG0eEvgDCFblJWgAI6oiwwAeDnM3VFjsEX7NmQl+HqRYpTd42QViWkK2W6cjSg==",
   "success": true,
   "projectFilePath": "C:\\project\\CommandAPISolution\\test\\CommandAPI\\CommandAPI.Tests.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\h.ortiz\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\h.ortiz\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\h.ortiz\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\h.ortiz\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\h.ortiz\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
@@ -150,7 +152,7 @@
     "C:\\Users\\h.ortiz\\.nuget\\packages\\system.private.datacontractserialization\\4.3.0\\system.private.datacontractserialization.4.3.0.nupkg.sha512",
     "C:\\Users\\h.ortiz\\.nuget\\packages\\system.private.uri\\4.3.2\\system.private.uri.4.3.2.nupkg.sha512",
     "C:\\Users\\h.ortiz\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
-    "C:\\Users\\h.ortiz\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\h.ortiz\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\h.ortiz\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
     "C:\\Users\\h.ortiz\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
     "C:\\Users\\h.ortiz\\.nuget\\packages\\system.reflection.extensions\\4.3.0\\system.reflection.extensions.4.3.0.nupkg.sha512",

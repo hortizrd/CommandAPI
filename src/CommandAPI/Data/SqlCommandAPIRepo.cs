@@ -20,22 +20,31 @@ namespace CommandAPI.Data
 
         public void CreateCommand(Command cmd)
         {
-            throw new NotImplementedException();
+            if (cmd == null)
+            {
+                throw new ArgumentNullException(nameof(cmd));
+            }
+
+            _context.Command.Add(cmd);
         }
 
         public void DeleteCommand(Command cmd)
         {
-            throw new NotImplementedException();
+            if (cmd == null)
+            {
+                throw new ArgumentNullException(nameof(cmd));
+            }
+            _context.Command.Remove(cmd);
         }
 
         public IEnumerable<Command> GetAllCommands()
         {
-            throw new NotImplementedException();
+            return _context.Command.ToList();
         }
 
         public Command GetCommandById(int id)
         {
-            throw new NotImplementedException();
+            return _context.Command.FirstOrDefault(p => p.Id == id);
         }
 
         public bool SaveChanges()
