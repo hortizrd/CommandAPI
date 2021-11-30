@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CommandAPI.Data
 {
-    public class CommandContext : DbContext, ICommandContext
+    public class CommandContext : DbContext
     {
         public CommandContext(DbContextOptions<CommandContext> options)
           : base(options)
@@ -16,9 +16,9 @@ namespace CommandAPI.Data
         public DbSet<Command> Command { get; set; }
 
 
-        public async Task<int> SaveChanges()
-        {
-            return await base.SaveChangesAsync();
-        }
+        //public async Task<int> SaveChanges()
+        //{
+        //    return await base.SaveChangesAsync();
+        //}
     }
 }

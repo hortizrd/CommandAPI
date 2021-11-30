@@ -8,6 +8,6 @@ namespace CommandAPI.Data
     {
         DbSet<Command> Command { get; set; }
 
-        Task<int> SaveChanges();
+        //Task<int> SaveChanges();
     }
 }

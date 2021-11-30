@@ -14,6 +14,8 @@ using AutoMapper;
 
 
 using CommandAPI.Data;
+using Newtonsoft.Json.Serialization;
+
 namespace CommandAPI
 {
     public class Startup
@@ -37,10 +39,14 @@ namespace CommandAPI
             //services.AddScoped<ICommandContext>(provider => provider.GetService<CommandContext>());
             services.AddScoped<ICommandAPIRepo, SqlCommandAPIRepo>();
             services.AddControllers();
+
+            //AutoMapper
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
-           
-           
+            services.AddControllers().AddNewtonsoftJson(s =>
+            {
+                s.SerializerSettings.ContractResolver = new CamelCasePropertyNamesContractResolver();
+            });
             //
 
            // services.AddScoped<ICommandAPIRepo, MockCommandAPIRepo>();
